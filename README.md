@@ -1,6 +1,6 @@
 # Random Ideas
-Inspired by https://github.com/jbenet/random-ideas
+Inspired by [jbenet](https://github.com/jbenet/random-ideas)
 
 Get feedback for ideas
 
-https://github.com/robertsimoes/random-ideas/issues
+[See Ideas](https://github.com/robertsimoes/random-ideas/issues)

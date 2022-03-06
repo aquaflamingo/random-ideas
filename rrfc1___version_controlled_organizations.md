@@ -1,3 +1,4 @@
+RRFC1 - Version Controlled Organizations
 A fullstack piece of software is an explicitly version controlled (e.g. Git) artifact containing business logic to facilitate a marketable product that is centrally managed and deployed through a hosted provider (e.g. GitHub, IaaS). The benefits of this are that the software is fully searchable and contains historical versions to understand why technical decisions were made and the hosting provider provides a UI abstraction layer to collaborate effectively on change management to the artifact. 
 
 A modern organization is an implicitly version controlled (e.g. tribal know how) artifact containing business logic (e.g. policies, documents and decisions) that provides wrapping context to execute various a subprocesses (e.g. product, marketing, recruiting, operations). It is often uncentrally managed and "deployed" through various hosting providers (e.g.  Jira, Google Documents, Knowledge Management Systems, Registrations). 

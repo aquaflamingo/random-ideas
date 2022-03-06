@@ -7,7 +7,7 @@ Unfortunately, one is at an impasse if they are desiring to some how digitize hu
 
 The basic problem seems to be the "bulk transcription" from paper format to digital. The main avenue described in the previous paragraphs has via image capture format (i.e. snapping a picture), which is the "easiest way" as far as on could tell. However, one interesting observation is that certain dictation and text-to-speech engines such as Apple's dictation keyboard are fairly excellent once trained sufficiently. Instead of exporting the written data via image capture what about transcription via dictation? 
 
-The main issue one might run into is related to conserving structured notes (i.e. headings, points, etcetera). Borrowing some inspiration from Markdown's use of common characters to indicate styling and basic token processing, perhaps we could devise a simple "Dictation Markup Language" or DML for short.
+The main issue one might run into is related to conserving structured notes (i.e. headings, points, etcetera). Borrowing some inspiration from Markdown's use of common characters to indicate styling and basic token processing, perhaps we could devise a simple "Dictation Markup Language" or DiML for short.
 
 ## Specification
 To begin, we need four basic content elements:
@@ -22,7 +22,7 @@ Next, we have the issue of translating the above content elements into *easy to 
 ```diml
 
 'section' -> is the keyword for a new section
-'q.' -> is the keyword for a new heading ("q" has too much collision with common words)
+'q.' -> is the keyword for a new heading ("h" has too much collision with common words)
 'p.' -> is the keyword for a new point
 'sp.' -> is the keyword for a new subpoint
 ```

@@ -1,0 +1,3 @@
+# RRFC20 - Canadian Credit Card Comparison Tool
+There are several credit card products available with different fees and structures. You could probably accomplish this relatively quickly with a spreadsheet, but it would be nice to have a little website that you can select a given card from a dropdown menu and it tells you the rates / rewards. You can then import a GNUCash prior month budget or similar transaction format to get an estimate of your monthly allocation per category (e.g., some cards reward 2-4% on grocery + gas). Then you can plot the break even based on fees for Amex versus Mastercard versus Visa, _et cetera_ to get a better idea of what card is best for you. 
+
